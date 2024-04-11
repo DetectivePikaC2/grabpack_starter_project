@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grabpack V2 - Poppy Playtime
+* source:	https://sketchfab.com/3d-models/grabpack-v2-poppy-playtime-943c631216d448f4a8806c9d2a34a151
+* author:	-MG- (https://sketchfab.com/MG_MakesModels)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grabpack V2 - Poppy Playtime" (https://sketchfab.com/3d-models/grabpack-v2-poppy-playtime-943c631216d448f4a8806c9d2a34a151) by -MG- (https://sketchfab.com/MG_MakesModels) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

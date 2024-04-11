@@ -1,0 +1,11 @@
+Model Information:
+* title:	Poppy Playtime Electric
+* source:	https://sketchfab.com/3d-models/poppy-playtime-electric-c4925b623d7b401497b121bc65d006fd
+* author:	Toy War Official (https://sketchfab.com/toywar.com)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Poppy Playtime Electric" (https://sketchfab.com/3d-models/poppy-playtime-electric-c4925b623d7b401497b121bc65d006fd) by Toy War Official (https://sketchfab.com/toywar.com) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

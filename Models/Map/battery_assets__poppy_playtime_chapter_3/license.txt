@@ -1,0 +1,11 @@
+Model Information:
+* title:	Battery Assets | Poppy Playtime Chapter 3
+* source:	https://sketchfab.com/3d-models/battery-assets-poppy-playtime-chapter-3-9449bf85bb284fa6aa2daec1f5dd48ea
+* author:	KPMisParrot (https://sketchfab.com/KPMisParrot)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Battery Assets | Poppy Playtime Chapter 3" (https://sketchfab.com/3d-models/battery-assets-poppy-playtime-chapter-3-9449bf85bb284fa6aa2daec1f5dd48ea) by KPMisParrot (https://sketchfab.com/KPMisParrot) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

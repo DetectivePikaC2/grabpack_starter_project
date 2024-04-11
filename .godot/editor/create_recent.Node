@@ -1,0 +1,8 @@
+SpotLight3D
+Node3D
+AnimationPlayer
+CSGBox3D
+AudioStreamPlayer
+AudioStreamPlayer3D
+CollisionShape3D
+Area3D

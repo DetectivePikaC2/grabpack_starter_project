@@ -1,0 +1,197 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1712878117
+icon.svg::CompressedTexture2D::2663209807144480318::1712875299::1712875299::1::::<><>::
+::res://Audio/::1712875323
+::res://Audio/bg_music/::1712875323
+9. Horror Ambience Loop.mp3::AudioStreamMP3::6739477938402197221::1712875323::1712875323::1::::<><>::
+::res://Audio/sfx/::1712875325
+SFX carpetWalk03.mp3::AudioStreamMP3::5073525893710698285::1712875323::1712875323::1::::<><>::
+SFX carpetWalk04.mp3::AudioStreamMP3::6523707765501289531::1712875324::1712875324::1::::<><>::
+SFX carpetWalk05.mp3::AudioStreamMP3::8938293152543596428::1712875324::1712875324::1::::<><>::
+SFX carpetWalk06.mp3::AudioStreamMP3::553712337722444173::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk footsteps tile floor walking01.mp3::AudioStreamMP3::6506182548255285059::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk footsteps tile floor walking02.mp3::AudioStreamMP3::626845225518941579::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk footsteps tile floor walking03.mp3::AudioStreamMP3::2488109890200581167::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk footsteps tile floor walking04.mp3::AudioStreamMP3::3212495658272347734::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk footsteps tileRun01.mp3::AudioStreamMP3::8872438716152300471::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk footsteps tileRun02.mp3::AudioStreamMP3::8699404607640457751::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk footsteps tileRun03.mp3::AudioStreamMP3::4311547928858716363::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk footsteps tileRun04.mp3::AudioStreamMP3::5243936017352293749::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk RegularJump jump1.mp3::AudioStreamMP3::2331082062676026697::1712875324::1712875324::1::::<><>::
+SFX Characters Player PlayerWalk RegularJump jump2.mp3::AudioStreamMP3::4847734004466311051::1712875324::1712875324::1::::<><>::
+SFX ConduitSFX electric current.mp3::AudioStreamMP3::5693301178701434938::1712875324::1712875324::1::::<><>::
+SFX ConduitSFX electric pole charge.mp3::AudioStreamMP3::8541527937475074610::1712875324::1712875324::1::::<><>::
+SFX ConduitSFX electric pole discharge.mp3::AudioStreamMP3::7279757740710952955::1712875324::1712875324::1::::<><>::
+SFX ConduitSFX hand grab coil.mp3::AudioStreamMP3::7010895123327700490::1712875325::1712875325::1::::<><>::
+SFX engine generator loop 01.mp3::AudioStreamMP3::6509461275569793415::1712875325::1712875325::1::::<><>::
+SFX Entrance flourecent lights.mp3::AudioStreamMP3::9087452171820146387::1712875325::1712875325::1::::<><>::
+SFX Environment gate sfx.mp3::AudioStreamMP3::5712492836603364831::1712875325::1712875325::1::::<><>::
+SFX Extendo Hands hand grab 01.mp3::AudioStreamMP3::4846508733254917961::1712875325::1712875325::1::::<><>::
+SFX Extendo Hands hand launch 01.mp3::AudioStreamMP3::8701610589318872089::1712875325::1712875325::1::::<><>::
+SFX Extendo Hands hand launch cable 01-SeamlessLoop.mp3::AudioStreamMP3::5713964120691800018::1712875325::1712875325::1::::<><>::
+SFX Extendo Hands hand retract 01.mp3::AudioStreamMP3::6917812998300343079::1712875325::1712875325::1::::<><>::
+SFX Extendo Hands scanner 01.mp3::AudioStreamMP3::8963190324453861328::1712875325::1712875325::1::::<><>::
+SFX item grab v3.mp3::AudioStreamMP3::7348479934969650354::1712875325::1712875325::1::::<><>::
+::res://interactable/::1712875327
+battery.gd::GDScript::-1::1712875325::0::1::::<>RigidBody3D<>::
+battery.tscn::PackedScene::7524471440063276453::1712875325::0::1::::<><>::res://interactable/battery.gd<>uid://dwo0a6fntms5d::::res://Models/Map/battery_assets__poppy_playtime_chapter_3/textures/MI_BatteryBox_baseColor.png<>uid://b2q0asiv3prh::::res://Models/Map/battery_assets__poppy_playtime_chapter_3/textures/MI_BatteryBox_normal.png
+battery_reciever.gd::GDScript::-1::1712875325::0::1::::<>Node3D<>::
+battery_reciever.tscn::PackedScene::6325206943412859548::1712875325::0::1::::<><>::res://interactable/battery_reciever.gd<>uid://bhka50he7shaq::::res://Models/Map/battery_assets__poppy_playtime_chapter_3/textures/MI_BatteryFrame_Green_baseColor.png<>uid://bvbleu8tpocka::::res://Models/Map/battery_assets__poppy_playtime_chapter_3/textures/MI_BatteryFrame_Green_normal.png
+blue_scanner.gd::GDScript::-1::1712875325::0::1::::<>Node3D<>::
+blue_scanner.tscn::PackedScene::9134154652260198518::1712875325::0::1::::<><>::res://interactable/blue_scanner.gd<>uid://0k0xmvl2lfhn::::res://interactable/scan_line_res.tres<>uid://cjf03j4wr6dqm::::res://Models/Map/purple_hand_panel_poppy_playtime_3/textures/Material.006_baseColor.jpeg<>uid://beoiine1wwkjh::::res://Models/Map/poppy_playtime__hand_panel/textures/hand_panel_MAT.001_baseColor.png<>uid://cf8arp6t7chip::::res://Models/Map/poppy_playtime__hand_panel/textures/hand_panel_MAT.001_metallicRoughness.png<>uid://bx5o35aayon1n::::res://Models/Map/poppy_playtime__hand_panel/textures/hand_panel_MAT.001_normal.png<>uid://d0x3o18m271wm::::res://Audio/sfx/SFX Extendo Hands scanner 01.mp3
+grabpack_item.gd::GDScript::-1::1712875325::0::1::::<>Node3D<>::
+grabpack_item.tscn::PackedScene::7293692262448782187::1712875326::0::1::::<><>::uid://cwvx1fu5l2civ::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_Grabpack2_baseColor.png<>res://interactable/grabpack_item.gd<>uid://dybvmkq3bpwrj::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_Grabpack2_metallicRoughness.png<>uid://w6x6enopjg2g::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_Grabpack2_normal.png<>uid://cr2uvl7mx6txq::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Blue_baseColor.png<>uid://dj4uyjaihhnm7::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Blue_metallicRoughness.png<>uid://diy7sxohaeqnt::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Blue_normal.png<>uid://br31mhetywjsw::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Green_baseColor.png<>uid://bgkiq3wxmycv2::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Purple_baseColor.png<>uid://bcvf5ndrucb8q::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_RocketHand_baseColor.png<>uid://dbk0fy1sdmxjf::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_RocketHand_metallicRoughness.png<>uid://yavj8aduuqfg::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_RocketHand_normal.png<>uid://xfikhk3k62if::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_FlareHand_baseColor.png<>uid://c2505s3vas22q::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_FlareHand_metallicRoughness.png<>uid://0y5gqvc6dhqx::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_FlareHand_normal.png<>uid://dcxwnj5bhfkco::::res://Audio/sfx/SFX item grab v3.mp3
+Grab_Handle.gd::GDScript::-1::1712875325::0::1::::<>Node3D<>::
+grab_handle.tscn::PackedScene::8197279904952970560::1712875325::0::1::::<><>::res://interactable/Grab_Handle.gd<>uid://08fxp3ke5bfe::::res://Models/Map/project_playtime_gate/textures/Smslamdoorhandlemo1Mtl_baseColor.png<>uid://dv74xl3h54nfc::::res://Models/Map/project_playtime_gate/textures/Material.001_baseColor.jpeg
+green_power_charge.gd::GDScript::-1::1712875326::0::1::::<>Node3D<>::
+green_power_charge.tscn::PackedScene::6370918519721359833::1712875326::0::1::::<><>::res://interactable/green_power_charge.gd<>uid://bucs5oc1fmx4v::::res://Models/Map/poppy_playtime_electric/textures/Meshpart1Mtl_baseColor.png<>uid://dtxtyncywmqqs::::res://Audio/sfx/SFX ConduitSFX electric pole charge.mp3<>uid://dbymstv3156bn::::res://Audio/sfx/SFX ConduitSFX electric pole discharge.mp3
+jump_pad.gd::GDScript::-1::1712875326::0::1::::<>Node3D<>::
+jump_pad.tscn::PackedScene::5428812506045662442::1712875326::0::1::::<><>::res://interactable/jump_pad.gd<>uid://bvy2l2jhon017::::res://Models/Map/purple_hand_panel_poppy_playtime_3/textures/silver_MAT.001_baseColor.jpeg<>uid://cjf03j4wr6dqm::::res://Models/Map/purple_hand_panel_poppy_playtime_3/textures/Material.006_baseColor.jpeg
+power_recieve.gd::GDScript::-1::1712875326::0::1::::<>Node3D<>::
+power_recieve.tscn::PackedScene::2640788522070171314::1712875327::0::1::::<><>::res://interactable/power_recieve.gd<>uid://dfy6l11ovdn2i::::res://Models/Map/puzzle_assets_chapter_3_-_poppy_playtime (1)/textures/MI_PowerSource_normal.png<>uid://c65eohv4yxrbm::::res://Audio/sfx/SFX ConduitSFX hand grab coil.mp3
+scan_line_res.tres::StandardMaterial3D::1776924529827785143::1712875327::0::1::::<><>::
+::res://map/::1712876282
+example.tscn::PackedScene::5500266972388969557::1712876282::0::1::::<><>::
+::res://Models/::1712875335
+::res://Models/Map/::1712878145
+::res://Models/Map/battery_assets__poppy_playtime_chapter_3/::1712875328
+license.txt::TextFile::-1::1712875327::0::1::::<><>::
+scene.gltf::PackedScene::4588304617533077463::1712875327::1712875327::1::::<><>::
+scene_0.png::CompressedTexture2D::25919765410673837::1712875327::1712875327::1::::<><>::
+scene_1.png::CompressedTexture2D::6098221688621210353::1712875327::1712875327::1::::<><>::
+scene_2.png::CompressedTexture2D::6670765398780095320::1712875327::1712875327::1::::<><>::
+scene_3.png::CompressedTexture2D::1203742653213895339::1712875327::1712875327::1::::<><>::
+scene_4.png::CompressedTexture2D::5158353014735986730::1712875327::1712875327::1::::<><>::
+scene_5.png::CompressedTexture2D::2612836118315916676::1712875328::1712875328::1::::<><>::
+scene_6.png::CompressedTexture2D::8098889626556958175::1712875328::1712875328::1::::<><>::
+scene_7.png::CompressedTexture2D::2835063757162608236::1712875328::1712875328::1::::<><>::
+::res://Models/Map/battery_assets__poppy_playtime_chapter_3/textures/::1712875329
+MI_BatteryBox_baseColor.png::CompressedTexture2D::8733837461056434999::1712875328::1712875328::1::::<><>::
+MI_BatteryBox_normal.png::CompressedTexture2D::126943187928676533::1712875328::1712875328::1::::<><>::
+MI_BatteryFrame_Green_baseColor.png::CompressedTexture2D::2898441264639676924::1712875328::1712875328::1::::<><>::
+MI_BatteryFrame_Green_normal.png::CompressedTexture2D::3863126910271311196::1712875328::1712875328::1::::<><>::
+MI_BatteryIntense_baseColor.png::CompressedTexture2D::5418163476473347844::1712875328::1712875328::1::::<><>::
+MI_BatteryIntense_normal.png::CompressedTexture2D::5669866206942259683::1712875329::1712875329::1::::<><>::
+MI_Battery_ProgressBar_baseColor.png::CompressedTexture2D::9029907894357509425::1712875328::1712875328::1::::<><>::
+MI_Battery_ProgressBar_normal.png::CompressedTexture2D::5543695944737251489::1712875328::1712875328::1::::<><>::
+::res://Models/Map/poppy_playtime_electric/::1712875329
+license.txt::TextFile::-1::1712875329::0::1::::<><>::
+scene.gltf::PackedScene::591869991924766168::1712875329::1712875329::1::::<><>::
+scene_0.png::CompressedTexture2D::8224946046096989896::1712875329::1712875329::1::::<><>::
+::res://Models/Map/poppy_playtime_electric/textures/::1712875329
+Meshpart1Mtl_baseColor.png::CompressedTexture2D::3795473531253824315::1712875329::1712875329::1::::<><>::
+::res://Models/Map/poppy_playtime_electrical_green_hand_pannel/::1712878146
+license.txt::TextFile::-1::1712878145::0::1::::<><>::
+scene.gltf::PackedScene::1377374026135769729::1712878145::1712878146::1::::<><>::uid://c2hq3akvdqjkf::::res://Models/Map/poppy_playtime_electrical_green_hand_pannel/textures/green_electrical_a_MAT_baseColor.png
+::res://Models/Map/poppy_playtime_electrical_green_hand_pannel/textures/::1712878146
+green_electrical_a_MAT_baseColor.png::CompressedTexture2D::6683412280411932109::1712878145::1712878147::1::::<><>::
+::res://Models/Map/poppy_playtime__hand_panel/::1712875329
+license.txt::TextFile::-1::1712875329::0::1::::<><>::
+scene.gltf::PackedScene::9188915206830585199::1712875329::1712875329::1::::<><>::
+scene_0.png::CompressedTexture2D::7883609958592383953::1712875329::1712875329::1::::<><>::
+scene_1.png::CompressedTexture2D::2188828304013295117::1712875329::1712875329::1::::<><>::
+scene_2.png::CompressedTexture2D::5681716115964973574::1712875329::1712875329::1::::<><>::
+::res://Models/Map/poppy_playtime__hand_panel/textures/::1712875329
+hand_panel_MAT.001_baseColor.png::CompressedTexture2D::2696578059289804849::1712875329::1712875329::1::::<><>::
+hand_panel_MAT.001_metallicRoughness.png::CompressedTexture2D::5191941246602031723::1712875329::1712875329::1::::<><>::
+hand_panel_MAT.001_normal.png::CompressedTexture2D::4063597035850849317::1712875329::1712875329::1::::<><>::
+::res://Models/Map/project_playtime_gate/::1712875330
+license.txt::TextFile::-1::1712875330::0::1::::<><>::
+scene.gltf::PackedScene::600399487586534990::1712875330::1712875330::1::::<><>::
+scene_0.png::CompressedTexture2D::9208124840385262851::1712875330::1712875330::1::::<><>::
+scene_1.png::CompressedTexture2D::9172001553067120809::1712875330::1712875330::1::::<><>::
+scene_2.jpg::CompressedTexture2D::4792058691754351567::1712875330::1712875330::1::::<><>::
+::res://Models/Map/project_playtime_gate/textures/::1712875330
+Material.001_baseColor.jpeg::CompressedTexture2D::8701090343028604424::1712875330::1712875330::1::::<><>::
+Smslamdoorhandlemo1Mtl_baseColor.png::CompressedTexture2D::1823191046624082978::1712875330::1712875330::1::::<><>::
+Smslamdoormo1Mtl_baseColor.png::CompressedTexture2D::12052965407863932::1712875330::1712875330::1::::<><>::
+::res://Models/Map/purple_hand_panel_poppy_playtime_3/::1712875330
+license.txt::TextFile::-1::1712875330::0::1::::<><>::
+scene.gltf::PackedScene::5857004555066981968::1712875330::1712875330::1::::<><>::
+scene_0.jpg::CompressedTexture2D::7577977568825875731::1712875330::1712875330::1::::<><>::
+scene_1.jpg::CompressedTexture2D::6815185022716267265::1712875330::1712875330::1::::<><>::
+::res://Models/Map/purple_hand_panel_poppy_playtime_3/textures/::1712875330
+Material.006_baseColor.jpeg::CompressedTexture2D::5416431294480289984::1712875330::1712875330::1::::<><>::
+silver_MAT.001_baseColor.jpeg::CompressedTexture2D::3911591901097855200::1712875330::1712875331::1::::<><>::
+::res://Models/Map/puzzle_assets_chapter_3_-_poppy_playtime (1)/::1712875333
+license.txt::TextFile::-1::1712875331::0::1::::<><>::
+scene.gltf::PackedScene::7320034639796246363::1712875331::1712875331::1::::<><>::
+scene_0.png::CompressedTexture2D::6883972114810467816::1712875331::1712875331::1::::<><>::
+scene_1.png::CompressedTexture2D::7168298413048030850::1712875331::1712875331::1::::<><>::
+scene_2.png::CompressedTexture2D::6213640976432748940::1712875332::1712875332::1::::<><>::
+scene_3.png::CompressedTexture2D::5185907742258910067::1712875332::1712875332::1::::<><>::
+scene_4.png::CompressedTexture2D::3591251690603071303::1712875332::1712875332::1::::<><>::
+scene_5.png::CompressedTexture2D::4485291793396804828::1712875333::1712875333::1::::<><>::
+scene_6.png::CompressedTexture2D::1602769077793802698::1712875333::1712875333::1::::<><>::
+scene_7.png::CompressedTexture2D::3538448815300774259::1712875333::1712875333::1::::<><>::
+scene_8.png::CompressedTexture2D::3934760423416710839::1712875333::1712875333::1::::<><>::
+scene_9.png::CompressedTexture2D::8495609156132234498::1712875333::1712875333::1::::<><>::
+scene_10.png::CompressedTexture2D::2854547878142360840::1712875331::1712875331::1::::<><>::
+scene_11.png::CompressedTexture2D::498967948257828627::1712875331::1712875331::1::::<><>::
+scene_12.png::CompressedTexture2D::5082466488034892114::1712875331::1712875331::1::::<><>::
+scene_13.png::CompressedTexture2D::6652782771738803243::1712875331::1712875331::1::::<><>::
+scene_14.png::CompressedTexture2D::2132417478287484650::1712875331::1712875331::1::::<><>::
+scene_15.png::CompressedTexture2D::6387582982684548307::1712875331::1712875331::1::::<><>::
+scene_16.png::CompressedTexture2D::7196693950215910936::1712875332::1712875332::1::::<><>::
+scene_17.png::CompressedTexture2D::565087749723035281::1712875332::1712875332::1::::<><>::
+scene_18.png::CompressedTexture2D::1556030413500192327::1712875332::1712875332::1::::<><>::
+scene_19.png::CompressedTexture2D::8353566386037711640::1712875332::1712875332::1::::<><>::
+scene_20.png::CompressedTexture2D::5555671038401572588::1712875332::1712875332::1::::<><>::
+scene_21.png::CompressedTexture2D::7526297297669254532::1712875332::1712875332::1::::<><>::
+::res://Models/Map/puzzle_assets_chapter_3_-_poppy_playtime (1)/textures/::1712875335
+MI_ElectricalPanel_A_diffuse.png::CompressedTexture2D::6772453577606315553::1712875333::1712875333::1::::<><>::
+MI_ElectricalPanel_A_normal.png::CompressedTexture2D::1161309811187577971::1712875333::1712875333::1::::<><>::
+MI_ElectricalPanel_A_specularGlossiness.png::CompressedTexture2D::5705243977568117433::1712875333::1712875333::1::::<><>::
+MI_ElectricalPanel_B_diffuse.png::CompressedTexture2D::4153716071348318214::1712875333::1712875333::1::::<><>::
+MI_ElectricalPanel_B_normal.png::CompressedTexture2D::1992493704661645335::1712875334::1712875334::1::::<><>::
+MI_ElectricalPanel_B_specularGlossiness.png::CompressedTexture2D::1860998771364849026::1712875334::1712875334::1::::<><>::
+MI_PowerReceiver_diffuse.png::CompressedTexture2D::584349745057595016::1712875334::1712875334::1::::<><>::
+MI_PowerReceiver_normal.png::CompressedTexture2D::4146367864079306640::1712875334::1712875334::1::::<><>::
+MI_PowerReceiver_specularGlossiness.png::CompressedTexture2D::8606627001577034350::1712875334::1712875334::1::::<><>::
+MI_PowerSource_diffuse.png::CompressedTexture2D::7795046186560743915::1712875334::1712875334::1::::<><>::
+MI_PowerSource_normal.png::CompressedTexture2D::7561654612311925370::1712875334::1712875334::1::::<><>::
+MI_PowerSource_specularGlossiness.png::CompressedTexture2D::3090210787028703099::1712875334::1712875334::1::::<><>::
+MI_PuzzlePole_Base_diffuse.png::CompressedTexture2D::3726687342494113226::1712875334::1712875334::1::::<><>::
+MI_PuzzlePole_Base_normal.png::CompressedTexture2D::8733129611353647298::1712875335::1712875335::1::::<><>::
+MI_PuzzlePole_Base_specularGlossiness.png::CompressedTexture2D::8137361339263729438::1712875335::1712875335::1::::<><>::
+MI_PuzzlePole_Basic_diffuse.png::CompressedTexture2D::3069849632906124947::1712875335::1712875335::1::::<><>::
+MI_PuzzlePole_Basic_normal.png::CompressedTexture2D::1747033104817295760::1712875335::1712875335::1::::<><>::
+MI_PuzzlePole_Parts_diffuse.png::CompressedTexture2D::8455747584024450315::1712875335::1712875335::1::::<><>::
+MI_PuzzlePole_Parts_normal.png::CompressedTexture2D::2993808714497044473::1712875335::1712875335::1::::<><>::
+MI_PuzzlePole_Parts_specularGlossiness.png::CompressedTexture2D::8875417756339339243::1712875335::1712875335::1::::<><>::
+MI_Trims_CoatedMetalPaintRusted_Gray_normal.png::CompressedTexture2D::3062997925615123895::1712875335::1712875335::1::::<><>::
+MI_Trims_CoatedMetalPaintRusted_Gray_specularGlossiness.png::CompressedTexture2D::6436474485874459052::1712875335::1712875335::1::::<><>::
+::res://Models/Monster/::1711306436
+::res://Models/Worker/::1712875335
+::res://Models/Worker/grabpack_v2_-_poppy_playtime/::1712875336
+license.txt::TextFile::-1::1712875335::0::1::::<><>::
+scene.gltf::PackedScene::7506541756752677972::1712875336::1712875336::1::::<><>::
+::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/::1712875337
+MI_BaseHand_Blue_baseColor.png::CompressedTexture2D::6023042377887493586::1712875336::1712875336::1::::<><>::
+MI_BaseHand_Blue_metallicRoughness.png::CompressedTexture2D::7852086270681654548::1712875336::1712875336::1::::<><>::
+MI_BaseHand_Blue_normal.png::CompressedTexture2D::7772294184322351117::1712875336::1712875336::1::::<><>::
+MI_BaseHand_Green_baseColor.png::CompressedTexture2D::3639034048731001646::1712875336::1712875336::1::::<><>::
+MI_BaseHand_Purple_baseColor.png::CompressedTexture2D::2828713337408001485::1712875336::1712875336::1::::<><>::
+MI_FlareHand_baseColor.png::CompressedTexture2D::1625169270724524697::1712875336::1712875336::1::::<><>::
+MI_FlareHand_metallicRoughness.png::CompressedTexture2D::6731443966500888002::1712875336::1712875336::1::::<><>::
+MI_FlareHand_normal.png::CompressedTexture2D::1806099254541586395::1712875337::1712875337::1::::<><>::
+MI_Grabpack2_baseColor.png::CompressedTexture2D::6361791076624991093::1712875337::1712875337::1::::<><>::
+MI_Grabpack2_metallicRoughness.png::CompressedTexture2D::8847155713745610539::1712875337::1712875337::1::::<><>::
+MI_Grabpack2_normal.png::CompressedTexture2D::1609602351689606508::1712875337::1712875337::1::::<><>::
+MI_RocketHand_baseColor.png::CompressedTexture2D::2570508150822575270::1712875337::1712875337::1::::<><>::
+MI_RocketHand_metallicRoughness.png::CompressedTexture2D::7251622827594282851::1712875337::1712875337::1::::<><>::
+MI_RocketHand_normal.png::CompressedTexture2D::1685825109740409520::1712875337::1712875337::1::::<><>::
+::res://Player_Worker/::1712875811
+flare.gd::GDScript::-1::1712875337::0::1::::<>Node3D<>::
+flare.tscn::PackedScene::8225418394823120899::1712875338::0::1::::<><>::res://Player_Worker/flare.gd
+grabpack.gd::GDScript::-1::1712875811::0::1::::<>Node3D<>::
+Hand_Flare.gd::GDScript::-1::1712875338::0::1::::<>Node3D<>::
+player.gd::GDScript::-1::1712875338::0::1::::Player<>CharacterBody3D<>::
+player.tscn::PackedScene::807566015674969178::1712875338::0::1::::<><>::res://Player_Worker/grabpack.gd<>res://Player_Worker/player.gd<>uid://cwvx1fu5l2civ::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_Grabpack2_baseColor.png<>uid://dybvmkq3bpwrj::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_Grabpack2_metallicRoughness.png<>uid://w6x6enopjg2g::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_Grabpack2_normal.png<>uid://cr2uvl7mx6txq::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Blue_baseColor.png<>uid://dj4uyjaihhnm7::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Blue_metallicRoughness.png<>uid://diy7sxohaeqnt::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Blue_normal.png<>uid://br31mhetywjsw::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Green_baseColor.png<>uid://bgkiq3wxmycv2::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_BaseHand_Purple_baseColor.png<>uid://bcvf5ndrucb8q::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_RocketHand_baseColor.png<>uid://dbk0fy1sdmxjf::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_RocketHand_metallicRoughness.png<>uid://yavj8aduuqfg::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_RocketHand_normal.png<>uid://xfikhk3k62if::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_FlareHand_baseColor.png<>uid://c2505s3vas22q::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_FlareHand_metallicRoughness.png<>res://Player_Worker/Hand_Flare.gd<>uid://0y5gqvc6dhqx::::res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_FlareHand_normal.png<>uid://whr31km06tvy::::res://Player_Worker/crosshair/3.png<>uid://dyn41fnsgp5g2::::res://Audio/sfx/SFX Characters Player PlayerWalk footsteps tileRun01.mp3<>uid://dv7b6m4hxk664::::res://Audio/sfx/SFX Characters Player PlayerWalk footsteps tileRun02.mp3<>uid://8hgt0vrdrtc8::::res://Audio/sfx/SFX Characters Player PlayerWalk RegularJump jump1.mp3<>uid://b2ostgrwt40j4::::res://Audio/sfx/SFX Characters Player PlayerWalk footsteps tileRun03.mp3<>uid://cbcjqah7vyimd::::res://Audio/sfx/SFX Characters Player PlayerWalk RegularJump jump2.mp3<>uid://cgyg4ihxlmdjh::::res://Audio/sfx/SFX Characters Player PlayerWalk footsteps tileRun04.mp3<>uid://dv8eiw44c7tj2::::res://Audio/sfx/SFX Extendo Hands hand launch 01.mp3<>uid://c5tbms88vdi3h::::res://Audio/sfx/SFX Extendo Hands hand retract 01.mp3
+player_global.gd::GDScript::-1::1712875338::0::1::::<>Node<>::
+::res://Player_Worker/crosshair/::1712875338
+3.png::CompressedTexture2D::1559688777056520374::1712875338::1712875338::1::::<><>::
+5.png::CompressedTexture2D::3191676880872972991::1712875338::1712875338::1::::<><>::
+7.png::CompressedTexture2D::491722267000528260::1712875338::1712875338::1::::<><>::
+46.png::CompressedTexture2D::8707720278468864378::1712875338::1712875338::1::::<><>::
+59.png::CompressedTexture2D::1816269483922013151::1712875338::1712875338::1::::<><>::

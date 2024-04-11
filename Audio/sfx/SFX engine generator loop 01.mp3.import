@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cy0h4131c21db"
+path="res://.godot/imported/SFX engine generator loop 01.mp3-8b6e6788d6acd52428bf2a39fdc0a7e0.mp3str"
+
+[deps]
+
+source_file="res://Audio/sfx/SFX engine generator loop 01.mp3"
+dest_files=["res://.godot/imported/SFX engine generator loop 01.mp3-8b6e6788d6acd52428bf2a39fdc0a7e0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

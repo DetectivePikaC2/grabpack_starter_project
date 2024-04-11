@@ -1,0 +1,11 @@
+Model Information:
+* title:	Poppy Playtime | Hand Panel
+* source:	https://sketchfab.com/3d-models/poppy-playtime-hand-panel-d7a1334488704ed99561bf1c6c072616
+* author:	Xoffly (https://sketchfab.com/Xoffly)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Poppy Playtime | Hand Panel" (https://sketchfab.com/3d-models/poppy-playtime-hand-panel-d7a1334488704ed99561bf1c6c072616) by Xoffly (https://sketchfab.com/Xoffly) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://w6x6enopjg2g"
+path.s3tc="res://.godot/imported/MI_Grabpack2_normal.png-8d6833f903cbe3684d4cdbe0136da4a9.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://Models/Worker/grabpack_v2_-_poppy_playtime/textures/MI_Grabpack2_normal.png"
+dest_files=["res://.godot/imported/MI_Grabpack2_normal.png-8d6833f903cbe3684d4cdbe0136da4a9.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=1
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=1
+roughness/src_normal="res://MOdels/Worker/grabpack_v2_-_poppy_playtime/textures/MI_Grabpack2_normal.png"
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

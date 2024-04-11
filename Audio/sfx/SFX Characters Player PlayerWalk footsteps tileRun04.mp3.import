@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cgyg4ihxlmdjh"
+path="res://.godot/imported/SFX Characters Player PlayerWalk footsteps tileRun04.mp3-9316079b3f3d2dffdcf4693f4c6c0205.mp3str"
+
+[deps]
+
+source_file="res://Audio/sfx/SFX Characters Player PlayerWalk footsteps tileRun04.mp3"
+dest_files=["res://.godot/imported/SFX Characters Player PlayerWalk footsteps tileRun04.mp3-9316079b3f3d2dffdcf4693f4c6c0205.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

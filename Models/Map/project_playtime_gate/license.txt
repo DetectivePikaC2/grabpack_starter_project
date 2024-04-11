@@ -1,0 +1,11 @@
+Model Information:
+* title:	Project Playtime Gate
+* source:	https://sketchfab.com/3d-models/project-playtime-gate-381af44a6e164f5f983552cf6d971373
+* author:	TOY WAR (https://sketchfab.com/toywar.com)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Project Playtime Gate" (https://sketchfab.com/3d-models/project-playtime-gate-381af44a6e164f5f983552cf6d971373) by TOY WAR (https://sketchfab.com/toywar.com) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
