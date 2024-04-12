@@ -38,3 +38,4 @@ var has_grabpack = false
 var allow_movement = true
 var selected = 0
 var switching = false
+var player_pos = Vector3()

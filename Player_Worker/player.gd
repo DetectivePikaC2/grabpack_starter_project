@@ -155,6 +155,7 @@ func hand_flare_use():
 		get_tree().call_group("ball_hand", "hand_spawn")
 
 func _process(delta):
+	Worker.player_pos = global_position
 	if not grabpack_disabled:
 		handle_walk_physics()
 		$layer1/Grab_layer1.visible = true

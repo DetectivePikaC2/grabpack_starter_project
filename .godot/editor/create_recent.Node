@@ -1,7 +1,10 @@
+CSGBox3D
+GPUParticles3D
+Sprite3D
+CPUParticles3D
 SpotLight3D
 Node3D
 AnimationPlayer
-CSGBox3D
 AudioStreamPlayer
 AudioStreamPlayer3D
 CollisionShape3D

@@ -71,6 +71,7 @@ shadow_enabled = true
 
 [node name="Timer" type="Timer" parent="."]
 wait_time = 15.0
+one_shot = true
 
 [node name="Object_2" type="MeshInstance3D" parent="."]
 transform = Transform3D(-0.2, 1.74846e-08, 7.64274e-16, 0, -8.74228e-09, 0.2, 1.74846e-08, 0.2, 8.74228e-09, -5.604, -0.675, 90.614)

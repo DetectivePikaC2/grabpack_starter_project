@@ -8,8 +8,12 @@ func _ready():
 	transform.origin = Worker.flare_pos
 	#rotation = Worker.flare_rot
 	print("spawned")
+	$smoke.emitting = true
+	$smoke2.emitting = true
 
 func _process(delta):
+	$smoke2.look_at(Worker.player_pos)
+	$smoke.look_at(Worker.player_pos)
 	if new_flare == false:
 		hookpoint = cast.get_collision_point()
 		transform.origin = lerp(transform.origin, hookpoint, 0.01)
